@@ -1,5 +1,7 @@
 # Employee-Tracker
 
+![image](https://user-images.githubusercontent.com/81602695/129508432-0585c596-2dce-41dd-93ca-4b4496e1e3c0.png)
+
 
 ## What It Does
   When the user starts the application on the backend they will see a list of options. Depending on what action the user clicks they will either be prompted to enter some information or be shown some information. 
