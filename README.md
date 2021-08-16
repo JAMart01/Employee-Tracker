@@ -15,4 +15,4 @@ GitHub: https://github.com/rldyd
 
 Ani Cook
 GitHub: https://github.com/anidino
--Ani is in the same class as me. This week she uploaded a tutorial on the homework assignment, which I used to guide myself through some of the issues I had. 
+- Ani is in the same class as me. This week she uploaded a tutorial on the homework assignment, which I used to guide myself through some of the issues I had. 
